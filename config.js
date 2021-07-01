@@ -16,3 +16,4 @@ const CONFIG = {
     messDesc: 'yêu mình thì ph thương mình nhá ,khum đc bắt nạt mk nhá. yêu <3',
     btnAccept: 'oki lunnnnnnnnnnn',
     messLink: ' https://m.me/100029762581708' 
+}
